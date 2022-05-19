@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.venv/
+data
+result
+my_mnist.model
+
+bento/.ipynb_checkpoints
+
+
+titanic/.ipynb_checkpoints
+titanic/result
+titanic/*.csv
